@@ -1,0 +1,9 @@
+# ignore example file source directories
+/Un-patched
+/3440x1440-patched
+/16.9-patched (internet)
+
+# ignore reference game files
+*.ini
+*.dll
+*.exe
